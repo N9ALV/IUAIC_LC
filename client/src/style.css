@@ -15,7 +15,7 @@
   --gray-500: #595959;
   --gray-600: #424242;
   --gray-700: #4169e1;
-  --gray-800: #000510;
+  --gray-800: #000717;
   --gray-850: #000c28;
   --gray-900: #0d0d0d;
   --green-50: #ecfdf5;
@@ -1592,7 +1592,7 @@ html {
 .dark body,
 .dark html {
   --tw-bg-opacity: 1;
-  background-color: rgba(33, 33, 33, var(--tw-bg-opacity));
+  background-color: rgba(0, 5, 16, var(--tw-bg-opacity));
 }
 #__next,
 #root {
